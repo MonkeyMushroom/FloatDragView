@@ -3,4 +3,4 @@
 
 ![image](https://github.com/MonkeyMushroom/FloatDragView/raw/master/1.gif)
 
-代码步骤详见 http://blog.csdn.net/qq_31715429/article/details/54668668
+代码步骤详见 http://blog.csdn.net/qq_31715429/article/details/77895842
